@@ -25,7 +25,7 @@ public class CruddemoApplication {
 //            createMultipleStudents(studentDAO);
 //            readStudend(studentDAO);
 //            getAllStudents(studentDAO);
-            updateStudent(studentDAO);
+//            updateStudent(studentDAO);
 
         };
     }
